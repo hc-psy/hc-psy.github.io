@@ -105,7 +105,7 @@ Social Cognition, Health Psychology, Language Perception, and Industrial & Organ
 
 ### Referred Journal Papers/Proceedings
 
-|<figure><img class="pub" src="/assets/img/publications/JCP21.png"></figure>| Yu, Li-Yeu, Wu, Tsung-Yu, Kao, Feng-Hsia, & **Lo, Hao-Cheng** (2021). Coping with interpersonal stress in Chinese organizations. *Journal of Chinese Psychology*, 63(1), 41-72. (TSSCI, In Chinese) **\[[link](https://www.airitilibrary.com/Publication/alDetailedMesh?DocID=10139656-202103-202105050002-202105050002-41-72)\]** <br/> <span style="color: grey; font-size:14px;">*Contributions: Statistical Analysis (FA, MLM), Follow-up Defense*</span>|
+|<figure><img class="pub" src="/assets/img/publications/JCP21.jpg"></figure>| Yu, Li-Yeu, Wu, Tsung-Yu, Kao, Feng-Hsia, & **Lo, Hao-Cheng** (2021). Coping with interpersonal stress in Chinese organizations. *Journal of Chinese Psychology*, 63(1), 41-72. (TSSCI, In Chinese) **\[[link](https://www.airitilibrary.com/Publication/alDetailedMesh?DocID=10139656-202103-202105050002-202105050002-41-72)\]** <br/> <span style="color: grey; font-size:14px;">*Contributions: Statistical Analysis (FA, MLM), Follow-up Defense*</span>|
 |<figure><img class="pub" src="/assets/img/publications/AOM21.png"></figure>| **Lo, Hao-Cheng** & Wu, Tsung-Yu (2021). Chinese positive leaderships and employee voice: The perspective of pan-familism activation. In *Academy of Management Proceedings* (Vol. 2021, No. 1). Briarcliff Manor, NY 10510: Academy of Management. (Tier 1 Conference, RR > 85%) **\[[link](https://journals.aom.org/doi/abs/10.5465/AMBPP.2021.12371abstract)\]** <br/> <span style="color: grey; font-size:14px;">*Contributions: Theorizing, Experimental Design, Data Acquiring, Statistical Analysis (High-order Causal), Presentation*</span>|
 |<figure><img class="pub" src="/assets/img/publications/AOM20.png"></figure>| Wu, Tsung-Yu, Tung, Shi-Ju, & **Lo, Hao-Cheng** (2020). When a leader has to put on an act: A test of dual-process model of leaders’ emotional labor. In *Academy of Management Proceedings* (Vol. 2020, No. 1). Briarcliff Manor, NY 10510: Academy of Management. (Tier 1 Conference, RR > 85%) **\[[link](https://journals.aom.org/doi/abs/10.5465/AMBPP.2020.22200abstract)\]** <br/> <span style="color: grey; font-size:14px;">*Contributions: Statistical Analysis (SEM), Presentation*</span>|
 |<figure><img class="pub" src="/assets/img/publications/APJHRM19.png"></figure>| Wu, Tsung-Yu, Liu, Yi‐Fu, Hua, Chong‐Yu, **Lo, Hao-Cheng**, & Yeh, Ying‐Jung (2020). Too unsafe to voice? Authoritarian leadership and employee voice in Chinese organizations. *Asia Pacific Journal of Human Resources*, 58(4), 527-554. (SSCI) **\[[link](https://onlinelibrary.wiley.com/doi/abs/10.1111/1744-7941.12247)\]** <br/> <span style="color: grey; font-size:14px;">*Contributions: Statistical Analysis (High-order SEM), Follow-up Defense*</span>|
@@ -148,7 +148,7 @@ Experimental & Formal Linguistics.
 
 
 <script>
-    var ran_img_els = document.getElementsByClassName("ranimg")
+    var ran_img_els = document.getElementsByClassName("ranimg");
     Array.from(ran_img_els).forEach((img_el, idx) => {
         img_el.src = `https://picsum.photos/200/200?random=${idx+1}`;
     });
