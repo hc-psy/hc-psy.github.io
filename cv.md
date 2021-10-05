@@ -8,10 +8,16 @@ sitemap: false
 * this list will be replaced by the toc
 {:toc .large-only}
 
-Richard hails from Tulsa. He has earned degrees from the University of Oklahoma and Stanford. (Go Sooners and Cardinals!) Before starting Pied Piper, he worked for Hooli as a part time software developer. While his work focuses on applied information theory, mostly optimizing lossless compression schema of both the length-limited and adaptive variants, his non-work interests range widely, everything from quantum computing to chaos theory. He could tell you about it, but THAT would NOT be a “length-limited” conversation! Open `_data/resume.yml` to edit this text.
+With a solid grounding in Psychological Science, Computer Science, and Statistics, Hao-Cheng Lo (Ollie) is a machine learning (NLP) engineer at [JCIP group](http://www.jcipgroup.com/index_template.html?3) with 5+ years of hands-on experience in machine learning, data science, and software development (full-stack). 
+<br/><br/>
+Derived from multidisciplinary training, he strives to build AI-oriented applications through fast learning, strategic thinking, strong implementation skills, and a conscientious yet open-minded spirit. Besides, he enacts a role as a Psychology Ph.D. student at [National Taiwan University](http://www.psy.ntu.edu.tw/) (NTU).
+<br/><br/>
+Prior to his current status, he received B.S. and M.S. degrees in Psychology (Behavioral Science) from [National Chengchi University](https://psy.nccu.edu.tw/) (NCCU) and [National Taiwan University](http://www.psy.ntu.edu.tw/) (NTU) in 2016 and 2019, respectively.
 {:.note title="Summary"}
 
-<i class="fas fa-envelope-open" style="width: 20px"></i>：**austenpsy \[at\] gmail \[dot\] com**  <br/>
+<br/>
+<i class="fas fa-desktop" style="width: 20px"></i>：[**hc-psy \[dot\] github \[dot\] io**](https://hc-psy.github.io)  <br/>
+<i class="fas fa-envelope-open" style="width: 20px"></i>：[**austenpsy \[at\] gmail \[dot\] com**](mailto:austenpsy@gmail.com)  <br/>
 <i class="fas fa-phone" style="width: 20px"></i>：**(886) 958-115-319** <br/>
 <i class="fas fa-map-marker-alt" style="width: 20px"></i>：**No.1, Sec. 4, Roosevelt Road, Taipei City 10617, Taiwan (R.O.C.)** <br/>
 {:.faded}
@@ -19,91 +25,73 @@ Richard hails from Tulsa. He has earned degrees from the University of Oklahoma 
 ## Experience 👔
 <hr/>
 
-<img src="/assets/img/jc.jpg" style="float: left; width: 65px; padding: 5px 10px 5px 0px;">  **Machine Learning Engineer (NLP)** at **Jianq Chyun Intellectural Property Law** <br/> <span style="color: grey; font-size: 0.9em"> *Jul 2021 – present*</span> <br/>
+<img src="/assets/img/jc.jpg" style="float: left; width: 65px; padding: 5px 10px 5px 0px;">  **Machine Learning Engineer (NLP)** at [**Jianq Chyun Intellectural Property Law**](http://www.jcipgroup.com/index_template.html?3) <br/> <span style="color: grey; font-size: 0.9em"> Taipei, Taiwan, *Jul 2021 – present* </span> <br/>
 {:.lead}
 
-Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.
-{:.note title="Summary"}
+Jianq Chyun Intellectural Property Law is the top tier IP Law in Taiwan. 
+{:.note title="Description"}
 
-* Built an algorithm for artist to detect if their music was violating copy right infringement laws
-* Successfully won Techcrunch Disrupt
-* Optimized an algorithm that holds the current world record for Weisman Scores
+* Acted as a full-stack engineer with React.js/node.js/Django/SQL server constructing semi-automatic patent-composing system
+* Built a ETL-NLP pipeline for patent-classification/generation with GPT-2/Bert using pytorch
 
-<img src="/assets/img/most.jpg" style="float: left; width: 65px; padding: 5px 10px 5px 0px;">  **Research Assistant** at **Ministry of Science and Technology (Taiwan)** <br/> <span style="color: grey; font-size: 0.9em"> *Sep 2016 - present*</span> <br/>
+<img src="/assets/img/most.jpg" style="float: left; width: 65px; padding: 5px 10px 5px 0px;">  **Research Assistant** at [**Ministry of Science and Technology (Taiwan)**](https://www.most.gov.tw/?l=de) <br/> <span style="color: grey; font-size: 0.9em">Taipei, Taiwan, *Sep 2016 - present*</span> <br/>
 {:.lead}
 
-Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.
-{:.note title="Summary"}
+* Executed MOST granted/sponsored projects (composed reports, acquired data, designed experiments, conducted analyses, such as Mixed-Effect Model, Generalized Linear Model, Bayesian Analysis, Causal Analysis, SEM, Time Series Analysis, and the like).
+    * *To Help or Not to Help? Explore Employees' Prosocial Reactions to Observed Abusive Supervision from the Perspective of Bystander Effect* `MOST109-2410-H002-089-SSS`, *2021 - present*.
+    * *Accept or Reject? Why and When Will Supervisor Adopt Subordinate Voice: the Exploration of Mediating and Moderating Effects* `MOST106-2410-H002-082-SS3`, *2018 - 2021*. 
+    * *From Stress Prevention to Health Promotion: the Modification and Application of Job Demand-Resource Model* `MOST104-2420-H002-013-MY3`, *2017*.
+    * *From Work Consideration to Life Care: Development of the Scale and Exploration of the Antecedents and Consequences* `MOST103-2410-H002-238-SS3`, *2016 - 2017*.
+* Offered ad-hoc review of referred journal papers (e.g. *Journal of Organizational Behavior, Journal of Management Studies, Journal of Bussiness Ethics, European Journal of Work and Organizational Psychology*, etc.).
+* Led and advised undergraduate students to accomplish their thesis, which was championed by MOST and got published in conferences.
 
-* Built an algorithm for artist to detect if their music was violating copy right infringement laws
-* Successfully won Techcrunch Disrupt
-* Optimized an algorithm that holds the current world record for Weisman Scores
+![R] ![Matlab] ![SAS] ![SPSS] ![Mplus]
+{:.note title="Skills Entailed"}
 
-<img src="/assets/img/ntu.jpg" style="float: left; width: 65px; padding: 5px 10px 5px 0px;">  **Teaching Assistant** at **National Taiwan University** <br/> <span style="color: grey; font-size: 0.9em"> *Sep 2016 - Jul 2021*</span> <br/>
+<img src="/assets/img/ntu.jpg" style="float: left; width: 65px; padding: 5px 10px 5px 0px;">  **Teaching Assistant** at [**National Taiwan University**](https://www.ntu.edu.tw/) <br/> <span style="color: grey; font-size: 0.9em"> Taipei, Taiwan, *Sep 2016 - Jul 2021* </span> <br/>
 {:.lead}
 
-Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.
-{:.note title="Summary"}
+* Offered post-hoc supports and marked students' assignments of “Advanced Industrial and Commercial Psychology”, *2017 - 2021*
+* Programmed algorithms to test student's programming assignments of “Deep Learning in Human Behaviors (Neural and Behavioral Modeling)”, *2020*.
+* Gave a semester-length experiment class of “General Psychology” (recieved 3.9/4.0 appraisal), *2016*.
 
-* Built an algorithm for artist to detect if their music was violating copy right infringement laws
-* Successfully won Techcrunch Disrupt
-* Optimized an algorithm that holds the current world record for Weisman Scores
+![Linux] ![Python] ![CUDA] ![Pytorch]
+{:.note title="Skills Entailed"}
 
-<img src="/assets/img/cerego.jpg" style="float: left; width: 65px; padding: 5px 10px 5px 0px;">  **Data Scientist** at **Cerego** <br/> <span style="color: grey; font-size: 0.9em"> *Sep 2019 - Sep 2020*</span> <br/>
+<img src="/assets/img/cerego.jpg" style="float: left; width: 65px; padding: 5px 10px 5px 0px;">  **Data Scientist** at [**Cerego**](https://www.cerego.com/) <br/> <span style="color: grey; font-size: 0.9em"> Hsinchu, Taiwan; CA, US, *Sep 2019 - Sep 2020* </span> <br/>
 {:.lead}
 
-Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.
-{:.note title="Summary"}
+* Designed experiments to cross-/verified the validity of Cerego, an adaptive learning technology platform, in Taiwan with WABA in R language. (This project was hosted by Dr. Ken-Zen Chen in NCTU.)
+* Built keyword extraction and question-answering system models for automatic testing using python/pytorch/huggingface.
+* Collaborated with US-side data engineer, data scientist, backend, and DevOps using AWS.
 
-* Built an algorithm for artist to detect if their music was violating copy right infringement laws
-* Successfully won Techcrunch Disrupt
-* Optimized an algorithm that holds the current world record for Weisman Scores
-
-<img src="/assets/img/spring.jpg" style="float: left; width: 65px; padding: 5px 10px 5px 0px;">  **Intern Consultant** at **Spring (Adecco Group)** <br/> <span style="color: grey; font-size: 0.9em"> *Nov 2018 – Feb 2019*</span> <br/>
+<img src="/assets/img/spring.jpg" style="float: left; width: 65px; padding: 5px 10px 5px 0px;">  **Intern Consultant** at [**Adecco Group/Spring**](https://www.adeccogroup.com/) <br/> <span style="color: grey; font-size: 0.9em"> Taipei, Taiwan, *Nov 2018 – Feb 2019* </span> <br/>
 {:.lead}
 
-Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.
-{:.note title="Summary"}
+* Studied and presented the industrial market research and forecasting the software-related high-tech industry in Taiwan (for business development).
+* Optimized the systems of candidate tracking, interview, and workflow.
+* Held a talent-acquisition orientation for SW-related positions (achievement rate = .73).
 
-* Built an algorithm for artist to detect if their music was violating copy right infringement laws
-* Successfully won Techcrunch Disrupt
-* Optimized an algorithm that holds the current world record for Weisman Scores
-
-<img src="/assets/img/ntue.jpg" style="float: left; width: 65px; padding: 5px 10px 5px 0px;">  **Psychometrics Research Assistant** at **National Taipei University of Education** <br/> <span style="color: grey; font-size: 0.9em"> *Sep 2016 – Aug 2018*</span> <br/>
+<img src="/assets/img/ntue.jpg" style="float: left; width: 65px; padding: 5px 10px 5px 0px;">  **Psychometrics Research Assistant** at [**National Taipei University of Education**](https://www.ntue.edu.tw/ehome) <br/> <span style="color: grey; font-size: 0.9em"> Taipei, Taiwan, *Sep 2016 – Aug 2018* </span> <br/>
 {:.lead}
 
-Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.
-{:.note title="Summary"}
+* Programmed algorithms for item-dependent-CAT/IRT simulation and building multivariate model using R/Matlab/PARSCALE. (Hosted by Dr. Chang, Yu-Wen)
+* Executed quantitative analysis for developing test/questionnaire in a national longitudinal (13y) study with over 10k samples for discovering the key factors of learning. (PISA project)
 
-* Built an algorithm for artist to detect if their music was violating copy right infringement laws
-* Successfully won Techcrunch Disrupt
-* Optimized an algorithm that holds the current world record for Weisman Scores
-
-<img src="/assets/img/jct.png" style="float: left; width: 65px; padding: 5px 10px 5px 0px;">  **Data Analyst** at **Joint Commission of Taiwan** <br/> <span style="color: grey; font-size: 0.9em"> *Apr 2017 – Feb 2018*</span> <br/>
+<img src="/assets/img/jct.png" style="float: left; width: 65px; padding: 5px 10px 5px 0px;">  **Data Analyst** at [**Joint Commission of Taiwan**](https://www.jct.org.tw/mp-2.html) <br/> <span style="color: grey; font-size: 0.9em"> Taipei, Taiwan, *Apr 2017 – Feb 2018* </span> <br/>
 {:.lead}
 
-Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.
-{:.note title="Summary"}
+* Designed and developed a system to probe satisfaction for national annual hospital accreditation, which followed the rigorous conventional psychometrics procedure using R/SPSS. (This project was hosted by Dr. Kao, Feng Hsia in NTUNHS.)
 
-* Built an algorithm for artist to detect if their music was violating copy right infringement laws
-* Successfully won Techcrunch Disrupt
-* Optimized an algorithm that holds the current world record for Weisman Scores
-
-<img src="/assets/img/gamania.jpg" style="float: left; width: 65px; padding: 5px 10px 5px 0px;">  **Data Scientist (Intern)** at **Gamania** <br/> <span style="color: grey; font-size: 0.9em"> *May 2017 – Aug 2017*</span> <br/>
+<img src="/assets/img/gamania.jpg" style="float: left; width: 65px; padding: 5px 10px 5px 0px;">  **Data Scientist (Intern)** at [**Gamania**](https://www.gamania.com/) <br/> <span style="color: grey; font-size: 0.9em"> Taipei, Taiwan, *May 2017 – Aug 2017* </span> <br/>
 {:.lead}
 
-Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.
-{:.note title="Summary"}
+* @Prototype studio
+* Using DL self-attention model to extract/predict competency from video data of candidates playing our designed gamified tool with keras/tensorflow framwork.
+Performed validity analysis with R.
 
-* Built an algorithm for artist to detect if their music was violating copy right infringement laws
-* Successfully won Techcrunch Disrupt
-* Optimized an algorithm that holds the current world record for Weisman Scores
-
-<img src="/assets/img/sa.png" style="float: left; width: 65px; padding: 5px 10px 5px 0px;">  **Full Stack Developer** at **Star Alignment** <br/> <span style="color: grey; font-size: 0.9em"> *Jun 2013 – Feb 2016*</span> <br/>
+<img src="/assets/img/sa.png" style="float: left; width: 65px; padding: 5px 10px 5px 0px;">  **Co-Founder/Full Stack Developer** at **Star Alignment** <br/> <span style="color: grey; font-size: 0.9em"> Shanghai, China, *Jun 2013 – Feb 2017*</span> <br/>
 {:.lead}
-
-Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.
-{:.note title="Summary"}
 
 * Built an algorithm for artist to detect if their music was violating copy right infringement laws
 * Successfully won Techcrunch Disrupt
@@ -112,7 +100,7 @@ Pied Piper is a multi-platform technology based on a proprietary universal compr
 ## Education 🎓
 <hr/>
 
-<img src="/assets/img/ntu.jpg" style="float: left; width: 65px; padding: 5px 10px 5px 0px;">  **PhD** in **Psychology** at **National Taiwan University** <br/> <span style="color: grey; font-size: 0.9em"> *Sep 2019 – present*</span> <br/>
+<img src="/assets/img/ntu.jpg" style="float: left; width: 65px; padding: 5px 10px 5px 0px;">  **PhD** in **Psychology** at [**National Taiwan University**](http://www.psy.ntu.edu.tw/) <br/> <span style="color: grey; font-size: 0.9em"> Taipei, Taiwan, *Sep 2019 – present*</span> <br/>
 {:.lead}
 
 Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.
@@ -122,7 +110,7 @@ Pied Piper is a multi-platform technology based on a proprietary universal compr
 * Successfully won Techcrunch Disrupt
 * Optimized an algorithm that holds the current world record for Weisman Scores
 
-<img src="/assets/img/ntu.jpg" style="float: left; width: 65px; padding: 5px 10px 5px 0px;">  **MS** in **Psychology** at **National Taiwan University** <br/> <span style="color: grey; font-size: 0.9em"> *Sep 2016 – Jun 2019*</span> <br/>
+<img src="/assets/img/ntu.jpg" style="float: left; width: 65px; padding: 5px 10px 5px 0px;">  **MS** in **Psychology** at [**National Taiwan University**](http://www.psy.ntu.edu.tw/) <br/> <span style="color: grey; font-size: 0.9em"> Taipei, Taiwan, *Sep 2016 – Jun 2019*</span> <br/>
 {:.lead}
 
 Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.
@@ -132,7 +120,7 @@ Pied Piper is a multi-platform technology based on a proprietary universal compr
 * Successfully won Techcrunch Disrupt
 * Optimized an algorithm that holds the current world record for Weisman Scores
 
-<img src="/assets/img/nccu.jpg" style="float: left; width: 65px; padding: 5px 10px 5px 0px;">  **BS** in **Psychology** at **National Chengchi University** <br/> <span style="color: grey; font-size: 0.9em"> *Sep 2012 – Jun 2016*</span> <br/>
+<img src="/assets/img/nccu.jpg" style="float: left; width: 65px; padding: 5px 10px 5px 0px;">  **BS** in **Psychology** at [**National Chengchi University**](https://psy.nccu.edu.tw/) <br/> <span style="color: grey; font-size: 0.9em"> Taipei, Taiwan, *Sep 2012 – Jun 2016*</span> <br/>
 {:.lead}
 
 Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.
@@ -207,7 +195,7 @@ To name only a few. The darker the background colors are, the more proficient th
 |---|---|
 |Programming Languages|![Python] ![C++] ![Javascript] ![R] ![Matlab] ![C#] ![Java] ![Go] ![SQL] ![CSS] ![Html] ![Bash]|
 |Statistics/Numerical |![Python] ![C++] ![R] ![Matlab] ![SAS] ![Sage] ![SPSS] ![Mplus]|
-|Machine Learning     |![Numpy] ![Scipy] ![Pandas] ![Sklearn] ![Pytorch]|
+|Machine Learning     |![Numpy] ![Scipy] ![Pandas] ![Sklearn] ![Pytorch] ![CUDA]|
 |Web Front-end        |![Vuejs] ![Jqeury] ![Plotly] ![Webgl] ![Bootstrap]|
 |Web Back-end         |![Nodejs] ![Django] ![Flask] ![Mysql] ![Sqlserver] ![Php] ![Apache] ![RestAPI]|
 |Basic DevOps         |![aws] ![npm] ![Docker] ![Jenkins] ![Git]|
@@ -267,7 +255,7 @@ To name only a few. The darker the background colors are, the more proficient th
 [Pandas]: https://img.shields.io/badge/-pandas-2B1E1F?logo=pandas
 [Sklearn]: https://img.shields.io/badge/-scikit%20learn-303030?logo=scikit-learn
 [Pytorch]: https://img.shields.io/badge/-PyTorch-742107?logo=PyTorch
-
+[CUDA]: https://img.shields.io/badge/-CUDA-303030?logo=
 
 <!-- backend -->
 [Nodejs]: https://img.shields.io/badge/-Node.js-FFEFC0?logo=Node.js 
@@ -304,4 +292,10 @@ To name only a few. The darker the background colors are, the more proficient th
 
 *[SU HSIANG-YU Award]: The highest honor for psychological scientific thesis or dissertation in Taiwan.
 *[MENSA]: Mensa is the largest and oldest high IQ society in the world. It is a non-profit organization open to people who score at the 98th percentile or higher on a standardised, supervised IQ or other approved intelligence test.
+*[Mixed-Effect Model]: A statistical model containing both fixed effects and random effects.
+*[Generalized Linear Model]: A flexible generalization of ordinary linear regression that allows for the response variable to have an error distribution other than the normal distribution.
+*[Bayesian Analysis]: A method of statistical inference in which Bayes' theorem is used to update the probability for a hypothesis as more evidence or information becomes available.
+*[Causal Analysis]: Where the outcomes of the intervention are compared with the outcomes that would have been achieved if the intervention had not been implemented.
+*[SEM]: A set of statistical techniques used to measure and analyze the relationships of observed and latent variables.
+*[Time Series Analysis]: A specific way of analyzing a sequence of data points collected over an interval of time.
 
