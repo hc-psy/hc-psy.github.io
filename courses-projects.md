@@ -20,7 +20,7 @@ Selected courses.
 
 ## Computer Science
 
-|Course|Level-Credit|Source|GPA|Repo/Project|
+|Course|Level-Credit[^11]|Source[^12]|GPA[^13]|Repo/Project|
 |:----------|:----------|:----------|:----------|:----------|
 |**Deep Learning in Computer Vision** `CommE5052`|M-3|NTU|A+|-|
 |**Reinforcement Learning** `AEC8059`|M-3|NTU|A+|-|
@@ -37,6 +37,10 @@ Selected courses.
 |**Computer Architecture** `EE4039`|U-3|NTU|A+|-|
 |**Operating System** `AEU0049`|U-3|NTU|A+|-|
 |**Computer Network**|-|Coursera|-|-|
+|**Deep Learning** `SPECIALIZATION`|-|Coursera|-|-|
+|**MLOps** `SPECIALIZATION`|-|Coursera|-|-|
+|**Natural Language Processing** `SPECIALIZATION`|-|Coursera|-|-|
+|**Generative Adversarial Networks**  `SPECIALIZATION`|-|Coursera|-|-|
 |**Data Scientist Nanodegree**|-|Udacity|-|-|
 {:.stretch-table}
 
@@ -48,6 +52,7 @@ Selected courses.
 |**Categorical Data Analysis**|M-3|NTU|A+|-|
 |**Statistical Computing (Simulation)**|M-3|NTU|A+|-|
 |**Experimental Design**|M-3|NTU|A-|-|
+|**Multivariate Analysis**|U-3|NCCU|A-|-|
 |**Regression Analysis**|U-3|NCCU|A|-|
 |**Advanced (Mathmetical) Statistics**|U-3|NCCU|A-|-|
 |**Statistics (Statistics)**|U-3|NCCU|A+|-|
@@ -56,6 +61,55 @@ Selected courses.
 |**Mathematics (Calculus)**|U-3|NCCU|B+|-|
 {:.stretch-table}
 
+
+## Psychology: Cognitive Science
+
+|Course|Level-Credit|Source|GPA|
+|:----------|:----------|:----------|:----------|
+|**Repeat Measure Statistical Analysis**|M-3|NTU|A+|-|
+|**Statistical Computing (Simulation)**|M-3|NTU|A+|-|
+|**Experimental Design**|M-3|NTU|A-|-|
+|**Multivariate Analysis**|U-3|NCCU|A-|-|
+|**Regression Analysis**|U-3|NCCU|A|-|
+|**Advanced (Mathmetical) Statistics**|U-3|NCCU|A-|-|
+|**Statistics (Statistics)**|U-3|NCCU|A+|-|
+|**Statistics (Probability)**|U-3|NCCU|A+|-|
+|**Mathematics (Linear Algebra)**|U-3|NCCU|B|-|
+|**Mathematics (Calculus)**|U-3|NCCU|B+|-|
+{:.stretch-table}
+
+
+## Psychology: Social/Managerial Psychology
+
+|Course|Level-Credit|Source|GPA|
+|:----------|:----------|:----------|:----------|
+|**Repeat Measure Statistical Analysis**|M-3|NTU|A+|-|
+|**Statistical Computing (Simulation)**|M-3|NTU|A+|-|
+|**Experimental Design**|M-3|NTU|A-|-|
+|**Multivariate Analysis**|U-3|NCCU|A-|-|
+|**Regression Analysis**|U-3|NCCU|A|-|
+|**Advanced (Mathmetical) Statistics**|U-3|NCCU|A-|-|
+|**Statistics (Statistics)**|U-3|NCCU|A+|-|
+|**Statistics (Probability)**|U-3|NCCU|A+|-|
+|**Mathematics (Linear Algebra)**|U-3|NCCU|B|-|
+|**Mathematics (Calculus)**|U-3|NCCU|B+|-|
+{:.stretch-table}
+
+## Psychology: General/Clinical Psychology
+
+|Course|Level-Credit|Source|GPA|
+|:----------|:----------|:----------|:----------|
+|**Repeat Measure Statistical Analysis**|M-3|NTU|A+|-|
+|**Statistical Computing (Simulation)**|M-3|NTU|A+|-|
+|**Experimental Design**|M-3|NTU|A-|-|
+|**Multivariate Analysis**|U-3|NCCU|A-|-|
+|**Regression Analysis**|U-3|NCCU|A|-|
+|**Clinical and Humanistic Psychology**|U-3|NCCU|A-|-|
+|**Psychological Testing**|U-3|NCCU|A+|-|
+|**Psychology Experients**|U-3|NCCU|A+|-|
+|**Statistics in Behavioral Science**|U-3|NCCU|B|-|
+|**General Psychology**|U-3|NCCU|B+|-|
+{:.stretch-table}
 
 
 <!-- programming language -->
@@ -130,4 +184,6 @@ Selected courses.
 [MO]: https://img.shields.io/badge/-Microsoft%20Office-210F09?logo=Microsoft-Office
 
 
-
+[^11]: Level $$\in$$ \{U: undergruaduate course, M: master/doctoral course\}
+[^12]: Source $$\in$$ \{NTU: National Taiwan University, NCCU: National Chengchi University\}
+[^13]: GPA is on 4.3 basis conversion

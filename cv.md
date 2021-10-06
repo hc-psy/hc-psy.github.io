@@ -8,7 +8,7 @@ sitemap: false
 * this list will be replaced by the toc
 {:toc .large-only}
 
-With a solid grounding in Psychological Science, Computer Science, and Statistics, Hao-Cheng Lo (Ollie) is a machine learning (NLP) engineer at [JCIP group](http://www.jcipgroup.com/index_template.html?3) with 5+ years of hands-on experience in machine learning, data science, and software development (full-stack). 
+With a solid grounding in Psychological Science, Computer Science, and Statistics, **Hao-Cheng Lo** (Ollie) is a machine learning (NLP) engineer at [JCIP group](http://www.jcipgroup.com/index_template.html?3) with 5+ years of hands-on experience in machine learning, data science, and software development (full-stack). 
 <br/><br/>
 Derived from multidisciplinary training, he strives to build AI-oriented applications through fast learning, strategic thinking, strong implementation skills, and a conscientious yet open-minded spirit. Besides, he enacts a role as a Psychology Ph.D. student at [National Taiwan University](http://www.psy.ntu.edu.tw/) (NTU).
 <br/><br/>
@@ -25,20 +25,30 @@ Prior to his current status, he received B.S. and M.S. degrees in Psychology (Be
 ## Experience 👔
 <hr/>
 
-<img src="/assets/img/jc.jpg" style="float: left; width: 65px; padding: 5px 10px 5px 0px;">  **Machine Learning Engineer (NLP)** at [**Jianq Chyun Intellectural Property Law**](http://www.jcipgroup.com/index_template.html?3) <br/> <span style="color: grey; font-size: 0.9em"> Taipei, Taiwan, *Jul 2021 – present* </span> <br/>
+<img src="/assets/img/jc.jpg" style="float: left; width: 65px; padding: 5px 10px 5px 0px;">  **Machine Learning Engineer (NLP)** at [**Jianq Chyun Intellectural Property Law**](http://www.jcipgroup.com/index_template.html?3) <br/> <span style="color: grey; font-size: 0.9em"> Taipei, Taiwan, *Mar 2021 – present* </span> <br/>
 {:.lead}
 
-Jianq Chyun Intellectural Property Law is the top tier IP Law in Taiwan. 
+JC IP is the first-tier IP Law in Taiwan. Its data-driven AI team, taking advantage of terabyte-scale patent databases, tailors applications that enhance the acceptability of clients’ patents and facilitate patent engineers’ composing process.
 {:.note title="Description"}
 
-* Acted as a full-stack engineer with React.js/node.js/Django/SQL server constructing semi-automatic patent-composing system
-* Built a ETL-NLP pipeline for patent-classification/generation with GPT-2/Bert using pytorch
+* Projects:
+    * Develop a patent deep neural search engine for fuzzy prior arts searching, which are adopted by clients, such as TSMC, ACER, Honda Moter, HTC, ITRT, etc.
+    * Develop an GPT-based/Seq2Seq automated patent (claims, OA-analysis) composing system, accelerating the throughput of patent engineer by 20+%.
+    * Develop a personalized recommender system of patent defence, aiding patent engineers’ defence decision-making.
+    * Build an end2end transformer-based patenability indicator, pre-detecting under-developed claims.
+* Role:
+    * Responsible for constructing ETL big data pipeline and deploying/operating big data infrastructure.
+    * Responsible for realizing practical needs and design corresponding applications.
+    * Responsible for building and optimizing machine learning, deep learning NLP models to achieve pragmatical significance.
+    * Develop and test machine learning REST API.
+    * Design UI by Implementing RWD and SPA.
 
-<img src="/assets/img/most.jpg" style="float: left; width: 65px; padding: 5px 10px 5px 0px;">  **Research Assistant** at [**Ministry of Science and Technology (Taiwan)**](https://www.most.gov.tw/?l=de) <br/> <span style="color: grey; font-size: 0.9em">Taipei, Taiwan, *Sep 2016 - present*</span> <br/>
+<br/>
+<img src="/assets/img/most.jpg" style="float: left; width: 65px; padding: 5px 10px 5px 0px;">  **Research Assistant** at [**Ministry of Science and Technology (Taiwan)**](https://www.most.gov.tw/?l=de) <br/> <span style="color: grey; font-size: 0.9em">Taipei, Taiwan, *Sep 2016 - JUL 2021*</span> <br/>
 {:.lead}
 
 * Executed MOST granted/sponsored projects (composed reports, acquired data, designed experiments, conducted analyses, such as Mixed-Effect Model, Generalized Linear Model, Bayesian Analysis, Causal Analysis, SEM, Time Series Analysis, and the like).
-    * *To Help or Not to Help? Explore Employees' Prosocial Reactions to Observed Abusive Supervision from the Perspective of Bystander Effect* `MOST109-2410-H002-089-SSS`, *2021 - present*.
+    * *To Help or Not to Help? Explore Employees' Prosocial Reactions to Observed Abusive Supervision from the Perspective of Bystander Effect* `MOST109-2410-H002-089-SSS`, *2021*.
     * *Accept or Reject? Why and When Will Supervisor Adopt Subordinate Voice: the Exploration of Mediating and Moderating Effects* `MOST106-2410-H002-082-SS3`, *2018 - 2021*. 
     * *From Stress Prevention to Health Promotion: the Modification and Application of Job Demand-Resource Model* `MOST104-2420-H002-013-MY3`, *2017*.
     * *From Work Consideration to Life Care: Development of the Scale and Exploration of the Antecedents and Consequences* `MOST103-2410-H002-238-SS3`, *2016 - 2017*.
@@ -48,6 +58,7 @@ Jianq Chyun Intellectural Property Law is the top tier IP Law in Taiwan.
 ![R] ![Matlab] ![SAS] ![SPSS] ![Mplus]
 {:.note title="Skills Entailed"}
 
+<br/>
 <img src="/assets/img/ntu.jpg" style="float: left; width: 65px; padding: 5px 10px 5px 0px;">  **Teaching Assistant** at [**National Taiwan University**](https://www.ntu.edu.tw/) <br/> <span style="color: grey; font-size: 0.9em"> Taipei, Taiwan, *Sep 2016 - Jul 2021* </span> <br/>
 {:.lead}
 
@@ -58,6 +69,7 @@ Jianq Chyun Intellectural Property Law is the top tier IP Law in Taiwan.
 ![Linux] ![Python] ![CUDA] ![Pytorch]
 {:.note title="Skills Entailed"}
 
+<br/>
 <img src="/assets/img/cerego.jpg" style="float: left; width: 65px; padding: 5px 10px 5px 0px;">  **Data Scientist** at [**Cerego**](https://www.cerego.com/) <br/> <span style="color: grey; font-size: 0.9em"> Hsinchu, Taiwan; CA, US, *Sep 2019 - Sep 2020* </span> <br/>
 {:.lead}
 
@@ -65,6 +77,7 @@ Jianq Chyun Intellectural Property Law is the top tier IP Law in Taiwan.
 * Built keyword extraction and question-answering system models for automatic testing using python/pytorch/huggingface.
 * Collaborated with US-side data engineer, data scientist, backend, and DevOps using AWS.
 
+<br/>
 <img src="/assets/img/spring.jpg" style="float: left; width: 65px; padding: 5px 10px 5px 0px;">  **Intern Consultant** at [**Adecco Group/Spring**](https://www.adeccogroup.com/) <br/> <span style="color: grey; font-size: 0.9em"> Taipei, Taiwan, *Nov 2018 – Feb 2019* </span> <br/>
 {:.lead}
 
@@ -72,17 +85,20 @@ Jianq Chyun Intellectural Property Law is the top tier IP Law in Taiwan.
 * Optimized the systems of candidate tracking, interview, and workflow.
 * Held a talent-acquisition orientation for SW-related positions (achievement rate = .73).
 
+<br/>
 <img src="/assets/img/ntue.jpg" style="float: left; width: 65px; padding: 5px 10px 5px 0px;">  **Psychometrics Research Assistant** at [**National Taipei University of Education**](https://www.ntue.edu.tw/ehome) <br/> <span style="color: grey; font-size: 0.9em"> Taipei, Taiwan, *Sep 2016 – Aug 2018* </span> <br/>
 {:.lead}
 
 * Programmed algorithms for item-dependent-CAT/IRT simulation and building multivariate model using R/Matlab/PARSCALE. (Hosted by Dr. Chang, Yu-Wen)
 * Executed quantitative analysis for developing test/questionnaire in a national longitudinal (13y) study with over 10k samples for discovering the key factors of learning. (PISA project)
 
+<br/>
 <img src="/assets/img/jct.png" style="float: left; width: 65px; padding: 5px 10px 5px 0px;">  **Data Analyst** at [**Joint Commission of Taiwan**](https://www.jct.org.tw/mp-2.html) <br/> <span style="color: grey; font-size: 0.9em"> Taipei, Taiwan, *Apr 2017 – Feb 2018* </span> <br/>
 {:.lead}
 
 * Designed and developed a system to probe satisfaction for national annual hospital accreditation, which followed the rigorous conventional psychometrics procedure using R/SPSS. (This project was hosted by Dr. Kao, Feng Hsia in NTUNHS.)
 
+<br/>
 <img src="/assets/img/gamania.jpg" style="float: left; width: 65px; padding: 5px 10px 5px 0px;">  **Data Scientist (Intern)** at [**Gamania**](https://www.gamania.com/) <br/> <span style="color: grey; font-size: 0.9em"> Taipei, Taiwan, *May 2017 – Aug 2017* </span> <br/>
 {:.lead}
 
@@ -90,6 +106,7 @@ Jianq Chyun Intellectural Property Law is the top tier IP Law in Taiwan.
 * Using DL self-attention model to extract/predict competency from video data of candidates playing our designed gamified tool with keras/tensorflow framwork.
 Performed validity analysis with R.
 
+<br/>
 <img src="/assets/img/sa.png" style="float: left; width: 65px; padding: 5px 10px 5px 0px;">  **Co-Founder/Full Stack Developer** at **Star Alignment** <br/> <span style="color: grey; font-size: 0.9em"> Shanghai, China, *Jun 2013 – Feb 2017*</span> <br/>
 {:.lead}
 
@@ -110,6 +127,7 @@ Pied Piper is a multi-platform technology based on a proprietary universal compr
 * Successfully won Techcrunch Disrupt
 * Optimized an algorithm that holds the current world record for Weisman Scores
 
+<br/>
 <img src="/assets/img/ntu.jpg" style="float: left; width: 65px; padding: 5px 10px 5px 0px;">  **MS** in **Psychology** at [**National Taiwan University**](http://www.psy.ntu.edu.tw/) <br/> <span style="color: grey; font-size: 0.9em"> Taipei, Taiwan, *Sep 2016 – Jun 2019*</span> <br/>
 {:.lead}
 
@@ -120,6 +138,7 @@ Pied Piper is a multi-platform technology based on a proprietary universal compr
 * Successfully won Techcrunch Disrupt
 * Optimized an algorithm that holds the current world record for Weisman Scores
 
+<br/>
 <img src="/assets/img/nccu.jpg" style="float: left; width: 65px; padding: 5px 10px 5px 0px;">  **BS** in **Psychology** at [**National Chengchi University**](https://psy.nccu.edu.tw/) <br/> <span style="color: grey; font-size: 0.9em"> Taipei, Taiwan, *Sep 2012 – Jun 2016*</span> <br/>
 {:.lead}
 
