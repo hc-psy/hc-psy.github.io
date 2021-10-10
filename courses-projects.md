@@ -3,7 +3,7 @@ layout: plain
 sitemap: false
 ---
 
-# Coourses & Projects
+# Courses & Projects
 
 * this list will be replaced by the toc
 {:toc .large-only}

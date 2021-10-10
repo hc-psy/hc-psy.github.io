@@ -69,9 +69,9 @@ JC IP is the 1<sup>st</sup>-tier IP Law in Taiwan. Its data-driven AI team, taki
 <img src="/assets/img/ntu.jpg" style="float: left; width: 65px; padding: 5px 10px 5px 0px;">  **Teaching Assistant** at [**National Taiwan University**](https://www.ntu.edu.tw/) <br/> <span style="color: grey; font-size: 0.9em"> Taipei, Taiwan, *Sep 2016 - Jul 2021* </span> <br/>
 {:.lead}
 
-* Offered post-hoc supports and marked students' assignments of “Advanced Industrial and Commercial Psychology `PSY7060`”, *2017 - 2021*
+* Offered ad-hoc supports and marked students' assignments of “Advanced Industrial and Commercial Psychology `PSY7060`”, *2017 - 2021*
 * Programmed algorithms to test student's programming assignments of “Deep Learning in Human Behaviors (Neural and Behavioral Modeling)  `PSY7277`”, *2020*.
-* Gave a semester-length experiment class of “General Psychology `PSY1008`” (recieved 3.9/4.0 appraisal), *2016*.
+* Gave a semester-length experiment class of “General Psychology `PSY1008`” (recieved 3.9/4.0 appraisal from students), *2016*.
 
 ![Bash] ![Python] ![CUDA] ![Pytorch]
 {:.note title="Skills Entailed"}
