@@ -8,7 +8,7 @@ sitemap: false
 * this list will be replaced by the toc
 {:toc .large-only}
 
-Selected courses.
+Selected courses. For complete infomation, please find my Offical Grade Report. 
 {:.note title="Note"}
 
 <style>
@@ -22,35 +22,35 @@ Selected courses.
 
 |Course|Level-Credit[^11]|Source[^12]|GPA[^13]|Repo/Project|
 |:----------|:----------|:----------|:----------|:----------|
-|**Deep Learning in Computer Vision** `CommE5052`|M-3|NTU|A+|-|
-|**Reinforcement Learning** `AEC8059`|M-3|NTU|A+|-|
+|**Deep Learning in Computer Vision** `CommE5052`|M-3|NTU|A|**\[[link]()\]**|
+|**Reinforcement Learning** `AEC8059`|M-3|NTU|A+|**\[[link]()\]**|
 |**Convex Optimization** `CommE5052`|M-3|NTU|B+|-|
-|**Machine Learning (Deep Learning)** `EE5184`|M-3|NTU|A+|-|
-|**Machine Learning Techniques** `CSIE5433`|M-3|NTU|A|-|
-|**Machine Learning Foundations** `CSIE5432`|M-3|NTU|A|-|
-|**Fintech** `CSIE5434`|M-3|NTU|A+|-|
-|**Quantum Algorithms** `CSIE5132`|M-3|NTU|A+|-|
-|**Cryptography** `MATH5421`|M-3|NTU|A|-|
-|**Computer Graphics** `CSIE5085`|M-3|NTU|A+|-|
-|**Algorithm** `EE4033`|U-3|NTU|A|-|
-|**Data Structure** `EE4022`|U-3|NTU|B+|-|
-|**Computer Architecture** `EE4039`|U-3|NTU|A+|-|
-|**Operating System** `AEU0049`|U-3|NTU|A+|-|
-|**Computer Network**|-|Coursera|-|-|
-|**Deep Learning** `SPECIALIZATION`|-|Coursera|-|-|
-|**MLOps** `SPECIALIZATION`|-|Coursera|-|-|
-|**Natural Language Processing** `SPECIALIZATION`|-|Coursera|-|-|
-|**Generative Adversarial Networks**  `SPECIALIZATION`|-|Coursera|-|-|
-|**Data Scientist Nanodegree**|-|Udacity|-|-|
+|**Machine Learning (Deep Learning)** `EE5184`|M-3|NTU|A+|**\[[link](https://github.com/hc-psy/mlee)\]**|
+|**Machine Learning Techniques** `CSIE5433`|M-2|NTU|A|**\[[link](https://github.com/hc-psy/ml)\]**|
+|**Machine Learning Foundations** `CSIE5432`|M-2|NTU|A|**\[[link](https://github.com/hc-psy/ml)\]**|
+|**Fintech** `CSIE5434`|M-3|NTU|A|**\[[link](https://github.com/hc-psy/fintech)\]**|
+|**Quantum Algorithms** `CSIE5132`|M-3|NTU|A|-|
+|**Cryptography** `MATH5421`|M-3|NTU|A|**\[[link](https://github.com/hc-psy/crypto)\]**|
+|**Computer Graphics** `CSIE5085`|M-3|NTU|A+|**\[[link](https://github.com/hc-psy/icg-lst)\]**|
+|**Algorithm** `EE4033`|U-3|NTU|A|**\[[link](https://github.com/hc-psy/algo)\]**|
+|**Data Structure** `EE4022`|U-3|NTU|B+|**\[[link]()\]**|
+|**Computer Architecture** `EE4039`|U-3|NTU|A+|**\[[link](https://github.com/hc-psy/arch)\]**|
+|**Operating System** `AEU0049`|U-3|NTU|A+|**\[[link]()\]**|
+|**Computer Network** `SPECIALIZATION`|Intermediate|Coursera|-|**\[[link]()\]**|
+|**Deep Learning** `SPECIALIZATION`|Intermediate|Coursera|-|**\[[link]()\]**|
+|**MLOps** `SPECIALIZATION`|Advanced|Coursera|-|**\[[link]()\]**|
+|**Natural Language Processing** `SPECIALIZATION`|Intermediate|Coursera|-|**\[[link]()\]**|
+|**Generative Adversarial Networks**  `SPECIALIZATION`|Intermediate|Coursera|-|**\[[link]()\]**|
+|**Data Scientist Nanodegree**|Advanced|Udacity|-|**\[[link](https://github.com/hc-psy/ds-hub)\]**|
 {:.stretch-table}
 
 ## Mathematics & Statistics
 
-|Course|Level-Credit|Source|GPA|Repo/Project|
+|Course|Level-Credit[^11]|Source[^12]|GPA[^13]|Repo/Project|
 |:----------|:----------|:----------|:----------|:----------|
-|**Repeat Measure Statistical Analysis**|M-3|NTU|A+|-|
-|**Categorical Data Analysis**|M-3|NTU|A+|-|
-|**Statistical Computing (Simulation)**|M-3|NTU|A+|-|
+|**Repeat Measure Statistical Analysis**|M-2|NTU|A+|**\[[link]()\]**|
+|**Categorical Data Analysis**|M-3|NTU|A+|**\[[link](https://github.com/hc-psy/cat)\]**|
+|**Statistical Computing (Simulation)**|M-3|NTU|A+|**\[[link]()\]**|
 |**Experimental Design**|M-3|NTU|A-|-|
 |**Multivariate Analysis**|U-3|NCCU|A-|-|
 |**Regression Analysis**|U-3|NCCU|A|-|
@@ -64,52 +64,12 @@ Selected courses.
 
 ## Psychology: Cognitive Science
 
-|Course|Level-Credit|Source|GPA|
-|:----------|:----------|:----------|:----------|
-|**Repeat Measure Statistical Analysis**|M-3|NTU|A+|-|
-|**Statistical Computing (Simulation)**|M-3|NTU|A+|-|
-|**Experimental Design**|M-3|NTU|A-|-|
-|**Multivariate Analysis**|U-3|NCCU|A-|-|
-|**Regression Analysis**|U-3|NCCU|A|-|
-|**Advanced (Mathmetical) Statistics**|U-3|NCCU|A-|-|
-|**Statistics (Statistics)**|U-3|NCCU|A+|-|
-|**Statistics (Probability)**|U-3|NCCU|A+|-|
-|**Mathematics (Linear Algebra)**|U-3|NCCU|B|-|
-|**Mathematics (Calculus)**|U-3|NCCU|B+|-|
+|Course|Level-Credit[^11]|Source[^12]|GPA[^13]|Repo/Project|
+|:----------|:----------|:----------|:----------|:----------|
+|**Behavioral and Neural Modeling**|M-3|NTU|A+|**\[[link](https://github.com/hc-psy/neural-behav-sim)\]**|
+|**Advanced Neuroscience**|M-3|NTU|A+|-|
 {:.stretch-table}
 
-
-## Psychology: Social/Managerial Psychology
-
-|Course|Level-Credit|Source|GPA|
-|:----------|:----------|:----------|:----------|
-|**Repeat Measure Statistical Analysis**|M-3|NTU|A+|-|
-|**Statistical Computing (Simulation)**|M-3|NTU|A+|-|
-|**Experimental Design**|M-3|NTU|A-|-|
-|**Multivariate Analysis**|U-3|NCCU|A-|-|
-|**Regression Analysis**|U-3|NCCU|A|-|
-|**Advanced (Mathmetical) Statistics**|U-3|NCCU|A-|-|
-|**Statistics (Statistics)**|U-3|NCCU|A+|-|
-|**Statistics (Probability)**|U-3|NCCU|A+|-|
-|**Mathematics (Linear Algebra)**|U-3|NCCU|B|-|
-|**Mathematics (Calculus)**|U-3|NCCU|B+|-|
-{:.stretch-table}
-
-## Psychology: General/Clinical Psychology
-
-|Course|Level-Credit|Source|GPA|
-|:----------|:----------|:----------|:----------|
-|**Repeat Measure Statistical Analysis**|M-3|NTU|A+|-|
-|**Statistical Computing (Simulation)**|M-3|NTU|A+|-|
-|**Experimental Design**|M-3|NTU|A-|-|
-|**Multivariate Analysis**|U-3|NCCU|A-|-|
-|**Regression Analysis**|U-3|NCCU|A|-|
-|**Clinical and Humanistic Psychology**|U-3|NCCU|A-|-|
-|**Psychological Testing**|U-3|NCCU|A+|-|
-|**Psychology Experients**|U-3|NCCU|A+|-|
-|**Statistics in Behavioral Science**|U-3|NCCU|B|-|
-|**General Psychology**|U-3|NCCU|B+|-|
-{:.stretch-table}
 
 
 <!-- programming language -->
@@ -186,4 +146,4 @@ Selected courses.
 
 [^11]: Level $$\in$$ \{U: undergruaduate course, M: master/doctoral course\}
 [^12]: Source $$\in$$ \{NTU: National Taiwan University, NCCU: National Chengchi University\}
-[^13]: GPA is on 4.3 basis conversion
+[^13]: GPA is on 4.3 basis conversion. \{A+: 4.3, A: 4.0, A-: 3.7, B+: 3.3, B: 3.0, B-: 2.7\}

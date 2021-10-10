@@ -123,6 +123,9 @@ Example code for using Matamo as alternative analytics solution.
 </script>
 
 <!-- hide power by -->
-<!-- <script type="text/javascript"> 
-  document.getElementsByTagName("footer")[0].children[3].remove();
-</script> -->
+<script type="text/javascript">
+  var handlers = function () {
+    document.getElementsByTagName("footer")[0].children[2].style.display = "none";
+  };
+  window.addEventListener('mousemove', handlers, true);
+</script>
