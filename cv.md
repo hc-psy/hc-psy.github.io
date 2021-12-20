@@ -16,7 +16,7 @@ Prior to his current status, he received B.S. and M.S. degrees in Psychology (Be
 {:.note title="Summary"}
 
 <br/>
-<i class="fas fa-desktop" style="width: 20px"></i>：[**hc-psy \[dot\] github \[dot\] io**](https://hc-psy.github.io)  <br/>
+<i class="fas fa-desktop" style="width: 20px"></i>：[**haolab \[dot\] net](https://haolab.net)  <br/>
 <i class="fas fa-envelope-open" style="width: 20px"></i>：[**austenpsy \[at\] gmail \[dot\] com**](mailto:austenpsy@gmail.com)  <br/>
 <i class="fas fa-phone" style="width: 20px"></i>：**(886) 958-115-319** <br/>
 <i class="fas fa-map-marker-alt" style="width: 20px"></i>：**No.1, Sec. 4, Roosevelt Road, Taipei City 10617, Taiwan (R.O.C.)** <br/>
