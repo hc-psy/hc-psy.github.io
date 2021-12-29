@@ -42,9 +42,11 @@ JC IP is the 1<sup>st</sup>-tier IP Law in Taiwan. Its data-driven AI team, taki
     * Responsible for building and optimizing machine learning, deep learning NLP models to achieve pragmatical significance.
     * Deploy ML applications by designing the front-end UI (RWD/SPA) and the back-end data control (ML RESTful API).
 
-![CUDA] ![Pytorch] ![Vuejs]
-![Java] ![Linux] ![Django] ![RestAPI] ![Sqlserver]
-![aws] ![npm] ![Docker] ![Git] ![Apache] ![Spark] ![Hadoop]
+![Pytorch] 
+![Reactjs]
+![Django] ![RestAPI] ![Sqlserver]
+![Linux] ![Docker]
+![aws] ![gcp] ![Git] ![Apache] ![Spark] ![Hadoop]
 {:.note title="Skills Entailed"}
 
 <br/>
@@ -62,7 +64,7 @@ JC IP is the 1<sup>st</sup>-tier IP Law in Taiwan. Its data-driven AI team, taki
 * Published academic papers (see [Publications](../publications){:.heading.flip-title}).
 
 
-![R] ![Matlab] ![SAS] ![SPSS] ![Mplus]
+![R] ![Matlab] ![SAS] ![SPSS] ![Mplus] 
 {:.note title="Skills Entailed"}
 
 <br/>
@@ -88,7 +90,7 @@ Cerego, based on CA, US, takes machine learning combined with years of cognitive
 * Developed a question-answering system with 78%+ accuracy.
 * Communicated and collaborated with US-side developers and data scientists.
 
-![R] ![Pytorch] ![aws] ![SQL] ![Git]
+![R] ![Pytorch] ![aws] ![Mysql] ![Git] ![Pandas] ![Sklearn]
 {:.note title="Skills Entailed"}
 
 <br/>
@@ -101,7 +103,7 @@ Adecco group, a fortune 500 firm, provides tailor-made staffing solutions worldw
 * Researched and strategically analyzed the high-tech industry in Taiwan for business development.
 * Executed and ad-hoc supported candidate-tracking, interview, and proofreading resume.
 * Held a campus talent-acquisition campaign for SW-related positions with 71%+ achievement rate.
-* Acted as an IT role developing in-team automated workflow systems through web-page crawling, such as automated analysis of progress tracking and automated news extraction.
+* Developed intra-team automated workflow systems through web-page crawling, such as automated analysis of progress tracking and automated news extraction.
 
 ![Python] ![MO]
 {:.note title="Skills Entailed"}
@@ -130,7 +132,7 @@ Joint Commission of Taiwan, organized by Taiwan Ministry of Health and Welfare, 
 * Analyzed the nationwide investigation with Multivariate Analysis and GLM.
 * Supervised by Dr. Feng Hsia Kao.
 
-![R] ![SAS] ![Mplus] ![SQL] ![Java]
+![R] ![Python] ![SAS] ![Mplus] ![Mysql]
 {:.note title="Skills Entailed"}
 
 <br/>
@@ -148,7 +150,7 @@ Gamania Digital Entertainment Co., Ltd. (Gamania) is a major PC online game and 
 * Built deep neural networks based on attention mechanisms to predict competencies from recorded video stream data (images and conversations) with accuraries 70%+ (better than general psychometric tool).
 * Conducted incremental validity analysis, proving strong linkages between gauged competencies and performance appraisals with 80%+ correlations.
 
-![R] ![Python] ![TensorFlow]
+![R] ![Python] ![Pytorch]
 {:.note title="Skills Entailed"}
 
 <br/>
@@ -167,7 +169,7 @@ Star Alignment is creating a travel application focused on facilitating self-gui
 * Optimized systems for performance, scalability, security, reliability and maintainability.
 * Participated in agile/scrum paradigm such as standup meetings, task tracking, code reviews, automated testing, continuous integration and deployment.
 
-![JAVA] ![aws] ![SQL] ![Javascript] ![Bootstrap] ![Jqeury] ![Linux] ![Git] ![Docker] ![Apache]
+![Bootstrap] ![Jqeury] ![Linux] ![Git] ![Apache] ![JAVA] ![Mysql]
 {:.note title="Skills Entailed"}
 
 
@@ -274,13 +276,12 @@ To name only a few. The darker the background colors are, the more proficient th
 
 |Subject|Techniques|
 |---|---|
-|Programming Languages|![Python] ![C++] ![Javascript] ![R] ![Matlab] ![C#] ![Java] ![Go] ![SQL] ![CSS] ![Html] ![Bash]|
 |Statistics/Numerical |![Python] ![C++] ![R] ![Matlab] ![SAS] ![Sage] ![SPSS] ![Mplus] ![PARSCALE]|
 |Machine Learning     |![Numpy] ![Scipy] ![Pandas] ![Sklearn] ![Pytorch] ![CUDA] ![TensorFlow]|
-|Web Front-end        |![Vuejs] ![Jqeury] ![Plotly] ![Webgl] ![Bootstrap]|
-|Web Back-end         |![Nodejs] ![Django] ![Flask] ![Mysql] ![Sqlserver] ![Php] ![Apache] ![RestAPI]|
-|Basic DevOps         |![aws] ![npm] ![Docker] ![Spark] ![Hadoop] ![Git]|
-|OS & Hardware        |![Ubuntu] ![Linux] ![Unix] ![Verilog]|
+|Web Front-end        |![Reactjs] ![Vuejs] ![Jqeury] ![Webgl] ![Bootstrap] ![Javascript] ![Typescript] ![Html] ![CSS] ![Plotly]|
+|Web Back-end         |![Nodejs] ![Django] ![Flask] ![Mysql] ![Sqlserver] ![Php] ![Apache] ![Nginx] ![RestAPI]|
+|Basic DevOps         |![aws] ![npm] ![Docker] ![Spark] ![Hadoop] ![Git] ![Bash]|
+|OS & Hardware        |![Linux] ![Unix] ![Verilog]|
 |Other Applications   |![Latex] ![UE] ![Blender] ![AI] ![MO]|
 {:.stretch-table}
 
@@ -306,78 +307,147 @@ To name only a few. The darker the background colors are, the more proficient th
 
 [thesis]: ../publications/#thesis
 
+<!-- color hex
+for 5: 785C71
+for 4: BF6C7C
+for 3: CDB8CB
+for 2: D79CA0
+for 1: F5B8A2 -->
+
 <!-- programming language -->
-[Python]: https://img.shields.io/badge/-Python-79606A?logo=python
-[C++]: https://img.shields.io/badge/-Cpp-937472?logo=cplusplus
-[Javascript]: https://img.shields.io/badge/-JavaScript-525B66?logo=JavaScript
-[R]: https://img.shields.io/badge/-R-6B5152?logo=R
-[Matlab]: https://img.shields.io/badge/-MATLAB-B7B1A5
-[C#]: https://img.shields.io/badge/-C%20Sharp-E0CDCF?logo=C-Sharp
-[Java]: https://img.shields.io/badge/-Java-C9C0D3?logo=Java
-[Go]: https://img.shields.io/badge/-Go-F8EBD8?logo=Go
-[SQL]: https://img.shields.io/badge/-SQL-8696A7
-[CSS]: https://img.shields.io/badge/-CSS3-B5C4B1?logo=CSS3
-[Html]: https://img.shields.io/badge/-HTML5-7A7281?logo=HTML5
-[Bash]: https://img.shields.io/badge/-Bash-965454?logo=GNU-Bash
+<!-- 5 -->
+[Python]: https://img.shields.io/badge/-Python-785C71?logo=python
+<!-- 2 -->
+[C++]: https://img.shields.io/badge/-Cpp-D79CA0?logo=cplusplus
+<!-- 5 -->
+[Javascript]: https://img.shields.io/badge/-JavaScript-785C71?logo=JavaScript
+<!-- 3 -->
+[Typescript]: https://img.shields.io/badge/-Typescript-CDB8CB?logo=Typescript
+<!-- 4 -->
+[R]: https://img.shields.io/badge/-R-BF6C7C?logo=R
+<!-- 2 -->
+[Matlab]: https://img.shields.io/badge/-MATLAB-D79CA0
+<!-- 1 -->
+[C#]: https://img.shields.io/badge/-C%20Sharp-F5B8A2?logo=C-Sharp
+<!-- 1 -->
+[Java]: https://img.shields.io/badge/-Java-F5B8A2?logo=Java
+<!-- 1 -->
+[Go]: https://img.shields.io/badge/-Go-F5B8A2?logo=Go
+<!-- 4 -->
+[SQL]: https://img.shields.io/badge/-SQL-BF6C7C
+<!-- 4 -->
+[CSS]: https://img.shields.io/badge/-CSS3-BF6C7C?logo=CSS3
+<!-- 4 -->
+[Html]: https://img.shields.io/badge/-HTML5-BF6C7C?logo=HTML5
+<!-- 3 -->
+[Bash]: https://img.shields.io/badge/-Bash-CDB8CB?logo=GNU-Bash
 
 
 <!-- frontend -->
-[Vuejs]: https://img.shields.io/badge/-Vue.js-D3D4CC?logo=Vue.js
-[Jqeury]: https://img.shields.io/badge/-jQuery-97998D?logo=jQuery
-[Plotly]: https://img.shields.io/badge/-Plotly-81786F?logo=Plotly
-[Webgl]: https://img.shields.io/badge/-WebGL-A7A8A0?logo=WebGL
-[Bootstrap]: https://img.shields.io/badge/-Bootstrap-746E10?logo=Bootstrap
+<!-- 5 -->
+[Reactjs]: https://img.shields.io/badge/-React-785C71?logo=React
+<!-- 2 -->
+[Vuejs]: https://img.shields.io/badge/-Vue-D79CA0?logo=Vue.js
+<!-- 4 -->
+[Jqeury]: https://img.shields.io/badge/-jQuery-BF6C7C?logo=jQuery
+<!-- 3 -->
+[Plotly]: https://img.shields.io/badge/-Plotly-CDB8CB?logo=Plotly
+<!-- 2 -->
+[Webgl]: https://img.shields.io/badge/-WebGL-D79CA0?logo=WebGL
+<!-- 4 -->
+[Bootstrap]: https://img.shields.io/badge/-Bootstrap-BF6C7C?logo=Bootstrap
 
 
 <!-- statistics/math -->
-[Sage]: https://img.shields.io/badge/-Sage-D1D4D0?logo=
-[SAS]: https://img.shields.io/badge/-SAS-CA9B80?logo=
-[SPSS]: https://img.shields.io/badge/-SPSS-253F63?logo=
-[Mplus]: https://img.shields.io/badge/-Mplus-97928A?logo=
-[PARSCALE]: https://img.shields.io/badge/-PARSCALE-97998D?logo=
+<!-- 1 -->
+[Sage]: https://img.shields.io/badge/-Sage-F5B8A2?logo=
+<!-- 3 -->
+[SAS]: https://img.shields.io/badge/-SAS-CDB8CB?logo=
+<!-- 5 -->
+[SPSS]: https://img.shields.io/badge/-SPSS-785C71?logo=
+<!-- 5 -->
+[Mplus]: https://img.shields.io/badge/-Mplus-785C71?logo=
+<!-- 3 -->
+[PARSCALE]: https://img.shields.io/badge/-PARSCALE-CDB8CB?logo=
 
 <!-- machine learning -->
-[Numpy]: https://img.shields.io/badge/-NumPy-210F09?logo=NumPy
-[Scipy]: https://img.shields.io/badge/-SciPy-25211E?logo=SciPy
-[Pandas]: https://img.shields.io/badge/-pandas-2B1E1F?logo=pandas
-[Sklearn]: https://img.shields.io/badge/-scikit%20learn-303030?logo=scikit-learn
-[Pytorch]: https://img.shields.io/badge/-PyTorch-742107?logo=PyTorch
-[CUDA]: https://img.shields.io/badge/-CUDA-303030?logo=
-[Tensorflow]: https://img.shields.io/badge/-TensorFlow-742107?logo=TensorFlow
+<!-- 5 -->
+[Numpy]: https://img.shields.io/badge/-NumPy-785C71?logo=NumPy
+<!-- 3 -->
+[Scipy]: https://img.shields.io/badge/-SciPy-CDB8CB?logo=SciPy
+<!-- 5 -->
+[Pandas]: https://img.shields.io/badge/-pandas-785C71?logo=pandas
+<!-- 5 -->
+[Sklearn]: https://img.shields.io/badge/-scikit%20learn-785C71?logo=scikit-learn
+<!-- 5 -->
+[Pytorch]: https://img.shields.io/badge/-PyTorch-785C71?logo=PyTorch
+<!-- 2 -->
+[CUDA]: https://img.shields.io/badge/-CUDA-D79CA0?logo=
+<!-- 2 -->
+[Tensorflow]: https://img.shields.io/badge/-TensorFlow-D79CA0?logo=TensorFlow
 
 <!-- backend -->
-[Nodejs]: https://img.shields.io/badge/-Node.js-FFEFC0?logo=Node.js 
-[Django]: https://img.shields.io/badge/-Django-1B1703?logo=Django 
-[Flask]: https://img.shields.io/badge/-Flask-331713?logo=Flask 
-[Mysql]: https://img.shields.io/badge/-MySQL-7C79AE?logo=MySQL
-[Sqlserver]: https://img.shields.io/badge/-SQL%20Server-2D0000?logo=Microsoft-SQL-Server
-[Php]: https://img.shields.io/badge/-PHP-C19144?logo=PHP
-[Apache]: https://img.shields.io/badge/-Apache-D3AB42?logo=Apache
-[RestAPI]: https://img.shields.io/badge/-Restful%20API-6D4E3F?logo=
+<!-- 2 -->
+[Nodejs]: https://img.shields.io/badge/-Node.js-D79CA0?logo=Node.js 
+<!-- 3 -->
+[Django]: https://img.shields.io/badge/-Django-CDB8CB?logo=Django 
+<!-- 3 -->
+[Flask]: https://img.shields.io/badge/-Flask-CDB8CB?logo=Flask 
+<!-- 4 -->
+[Mysql]: https://img.shields.io/badge/-MySQL-BF6C7C?logo=MySQL
+<!-- 4 -->
+[Sqlserver]: https://img.shields.io/badge/-SQL%20Server-BF6C7C?logo=Microsoft-SQL-Server
+<!-- 1 -->
+[Php]: https://img.shields.io/badge/-PHP-F5B8A2?logo=PHP
+<!-- 3 -->
+[Apache]: https://img.shields.io/badge/-Apache-CDB8CB?logo=Apache
+<!-- 3 -->
+[Nginx]: https://img.shields.io/badge/-Nginx-CDB8CB?logo=Nginx
+<!-- 4 -->
+[RestAPI]: https://img.shields.io/badge/-Restful%20API-BF6C7C?logo=
 
 
 <!-- devops -->
-[aws]: https://img.shields.io/badge/-AWS-637493?logo=Amazon-AWS 
-[npm]: https://img.shields.io/badge/-npm-AEA34B?logo=npm 
-[Docker]: https://img.shields.io/badge/-Docker-DDC19C?logo=Docker 
-[Spark]: https://img.shields.io/badge/-Spark-B8A285?logo=Apache-Spark
-[Hadoop]: https://img.shields.io/badge/-Hadoop-E19113?logo= 
-[Git]: https://img.shields.io/badge/-Git-253F63?logo=Git 
+<!-- 3 -->
+[aws]: https://img.shields.io/badge/-AWS-CDB8CB?logo=Amazon-AWS 
+<!-- 3 -->
+[gcp]: https://img.shields.io/badge/-GCP-CDB8CB?logo=GCP 
+<!-- 3 -->
+[npm]: https://img.shields.io/badge/-npm-CDB8CB?logo=npm 
+<!-- 3 -->
+[Docker]: https://img.shields.io/badge/-Docker-CDB8CB?logo=Docker 
+<!-- 1 -->
+[Spark]: https://img.shields.io/badge/-Spark-F5B8A2?logo=Apache-Spark
+<!-- 1 -->
+[Hadoop]: https://img.shields.io/badge/-Hadoop-F5B8A2?logo= 
+<!-- 4 -->
+[Git]: https://img.shields.io/badge/-Git-BF6C7C?logo=Git 
 
 
 <!-- oshw -->
-[Ubuntu]: https://img.shields.io/badge/-Ubuntu-4B3C45?logo=Ubuntu 
-[Linux]: https://img.shields.io/badge/-Linux-423F21?logo=Linux 
-[Unix]: https://img.shields.io/badge/-Unix-319C97?logo= 
-[Verilog]: https://img.shields.io/badge/-Verilog-D0BD9C?logo= 
+<!-- 4 -->
+[Linux]: https://img.shields.io/badge/-Linux-BF6C7C?logo=Linux 
+<!-- 3 -->
+[Unix]: https://img.shields.io/badge/-Unix-CDB8CB?logo= 
+<!-- 1 -->
+[Verilog]: https://img.shields.io/badge/-Verilog-F5B8A2?logo= 
 
 
 <!-- app -->
-[Latex]: https://img.shields.io/badge/-LaTeX-6B3E34?logo=LaTeX 
-[UE]: https://img.shields.io/badge/-Unreal%20Engine-E19113?logo=Unreal-Engine 
-[Blender]: https://img.shields.io/badge/-Blender-FFAC79?logo=Blender 
-[AI]: https://img.shields.io/badge/-Adobe%20Illustrator-7A9887?logo=Adobe-Illustrator 
-[MO]: https://img.shields.io/badge/-Microsoft%20Office-210F09?logo=Microsoft-Office
+<!-- 4 -->
+[Latex]: https://img.shields.io/badge/-LaTeX-BF6C7C?logo=LaTeX 
+<!-- 3 -->
+[UE]: https://img.shields.io/badge/-Unreal%20Engine-CDB8CB?logo=Unreal-Engine 
+<!-- 2 -->
+[Blender]: https://img.shields.io/badge/-Blender-D79CA0?logo=Blender 
+<!-- 2 -->
+[AI]: https://img.shields.io/badge/-Adobe%20Illustrator-D79CA0?logo=Adobe-Illustrator 
+<!-- 5 -->
+[MO]: https://img.shields.io/badge/-Microsoft%20Office-785C71?logo=Microsoft-Office
+
+
+
+
 
 *[SU HSIANG-YU Award]: The highest honor for psychological scientific thesis or dissertation in Taiwan.
 *[MENSA]: Mensa is the largest and oldest high IQ society in the world. It is a non-profit organization open to people who score at the 98th percentile or higher on a standardised, supervised IQ or other approved intelligence test.
