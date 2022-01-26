@@ -8,6 +8,8 @@ sitemap: false
 * this list will be replaced by the toc
 {:toc .large-only}
 
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23BCBCBC&title_bg=%23BCBCBC&icon=moleculer.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)
+
 With a solid grounding in Psychological Science, Computer Science, and Statistics, **Hao-Cheng Lo** (Ollie) is a machine learning (NLP) engineer at [JCIP group](http://www.jcipgroup.com/index_template.html?3) with 5+ years of hands-on experience in machine learning, data science, and software development (full-stack). Besides, he currently enacts a role as a Psychology Ph.D. student at [National Taiwan University](http://www.psy.ntu.edu.tw/) (NTU).
 <br/><br/>
 Derived from multidisciplinary training, he strives to build AI-oriented applications that can exert business impacts through fast learning, strategic thinking, agile programming abilities, and a conscientious yet open-minded spirit.
@@ -25,10 +27,10 @@ Prior to his current status, he received B.S. and M.S. degrees in Psychology (Be
 ## Experience 👔
 <hr/>
 
-<img src="/assets/img/jc.jpg" style="float: left; width: 65px; padding: 5px 10px 5px 0px;">  **Machine Learning Engineer (NLP)** at [**Jianq Chyun Intellectural Property Law**](http://www.jcipgroup.com/index_template.html?3) <br/> <span style="color: grey; font-size: 0.9em"> Taipei, Taiwan, *Mar 2021 – present* </span> <br/>
+<img src="/assets/img/jc.png" style="float: left; width: 65px; padding: 5px 10px 5px 0px;">  **Machine Learning Engineer (NLP)** at [**JCIPRNET**](http://www.jcipgroup.com/index_template.html?3) <br/> <span style="color: grey; font-size: 0.9em"> Taipei, Taiwan, *Mar 2021 – present* </span> <br/>
 {:.lead}
 
-JC IP is the 1<sup>st</sup>-tier IP Law in Taiwan. Its data-driven AI team, taking advantage of terabyte-scale patent databases, tailors applications that enhance the acceptability of clients’ patents and facilitate patent engineers’ composing process.
+JCIPRNET is the 1<sup>st</sup>-tier IP Law in Taiwan. Its data-driven AI team, taking advantage of terabyte-scale patent databases, tailors applications that enhance the acceptability of clients’ patents and facilitate patent engineers’ composing process.
 {:.note title="Description"}
 
 * Projects:
@@ -36,6 +38,7 @@ JC IP is the 1<sup>st</sup>-tier IP Law in Taiwan. Its data-driven AI team, taki
     * Develop a GPT-based/Seq2Seq automated patent composing system (claims, OA-analysis), accelerating the throughput of patent engineers by 20%+.
     * Develop a personalized recommender system of patent defense, offering similar cases and personalized instructions.
     * Build an end2end transformer-based automated patentability examiner with state-of-the-art performance (60%+ recall), pre-detecting under-developed claims.
+    * We are working on some papers (see [Publications](../publications){:.heading.flip-title}).
 * Role:
     * Responsible for constructing ETL big data pipeline and deploying/operating big data infrastructure.
     * Responsible for realizing practical needs and design corresponding applications.
@@ -109,7 +112,7 @@ Adecco group, a fortune 500 firm, provides tailor-made staffing solutions worldw
 {:.note title="Skills Entailed"}
 
 <br/>
-<img src="/assets/img/ntue.jpg" style="float: left; width: 65px; padding: 5px 10px 5px 0px;">  **Psychometrics Research Assistant** at [**National Taipei University of Education**](https://www.ntue.edu.tw/ehome) <br/> <span style="color: grey; font-size: 0.9em"> Taipei, Taiwan, *Sep 2016 – Aug 2018* </span> <br/>
+<img src="/assets/img/ntue.jpg" style="float: left; width: 65px; padding: 5px 10px 5px 0px;">  **Research Assistant in Statistics** at [**National Taipei University of Education**](https://www.ntue.edu.tw/ehome) <br/> <span style="color: grey; font-size: 0.9em"> Taipei, Taiwan, *Sep 2016 – Aug 2018* </span> <br/>
 {:.lead}
 
 @Dr. Yu-Wen Chang's LAB
@@ -243,8 +246,9 @@ In this competition, we developed an *Automated Ilgality Examination System of F
 * **Positive leadership and voice**, *DEC 2020*, National Taiwan University (PSY-N100).  
 * **Meta-analysis: Theory and practice**, *MAY 2020*, National Taiwan University (PSY-SBA). 
 
-### Study Groups
+### Study Groups/Side Projects
 
+* Co-Lead. **AI-Generated NFTs and GameFi**,  *2021 - present*, National Taiwan University (CSIE).
 * Member. [**AI . FREE TEAM**](https://aifreeblog.herokuapp.com/), *2021 - present*, Online.
 * Co-Lead. **State-of-the-art Neuro Network Study Group**, *2018 - 2021*, National Taiwan University (CSIE).
 * Lead. **Feature Engineering Study Group**, *2018*, National Taiwan University (CSIE).
@@ -291,7 +295,7 @@ To name only a few. The darker the background colors are, the more proficient th
 |Languages|Production|Perception|Certificates|
 |:----------|:----------|:----------|:----------|
 |Chinese|Native|Native|-|
-|English    |<i class="fas fa-star"></i> <i class="fas fa-star"></i> <i class="fas fa-star"></i> <i class="fas fa-star"></i> <i class="fas fa-star"></i>|<i class="fas fa-star"></i> <i class="fas fa-star"></i> <i class="fas fa-star"></i> <i class="fas fa-star"></i> <i class="fas fa-star"></i>|GRE|
+|English    |<i class="fas fa-star"></i> <i class="fas fa-star"></i> <i class="fas fa-star"></i> <i class="fas fa-star"></i> <i class="fas fa-star"></i>|<i class="fas fa-star"></i> <i class="fas fa-star"></i> <i class="fas fa-star"></i> <i class="fas fa-star"></i> <i class="fas fa-star"></i>|GRE (326)|
 |Japanese   |<i class="fas fa-star"></i> <i class="fas fa-star"></i> <i class="fas fa-star"></i> <i class="far fa-star"></i> <i class="far fa-star"></i>|<i class="fas fa-star"></i> <i class="fas fa-star"></i> <i class="fas fa-star"></i> <i class="far fa-star"></i> <i class="far fa-star"></i>|N3|
 |Taiwanese  |<i class="fas fa-star"></i> <i class="fas fa-star"></i> <i class="far fa-star"></i> <i class="far fa-star"></i> <i class="far fa-star"></i>|<i class="fas fa-star"></i> <i class="fas fa-star"></i> <i class="fas fa-star"></i> <i class="fas fa-star"></i> <i class="far fa-star"></i>|-|
 |Shaighaiese|<i class="fas fa-star"></i> <i class="fas fa-star"></i> <i class="far fa-star"></i> <i class="far fa-star"></i> <i class="far fa-star"></i>|<i class="fas fa-star"></i> <i class="fas fa-star"></i> <i class="fas fa-star"></i> <i class="fas fa-star"></i> <i class="far fa-star"></i>|-|
