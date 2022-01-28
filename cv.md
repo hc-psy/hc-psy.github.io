@@ -78,7 +78,7 @@ JCIPRNET is the 1<sup>st</sup>-tier IP Law in Taiwan. Its data-driven AI team, t
 * Programmed algorithms to test student's programming assignments of “Deep Learning in Human Behaviors (Neural and Behavioral Modeling)  `PSY7277`”, *2020*.
 * Gave a semester-length experiment class of “General Psychology `PSY1008`” (recieved 3.9/4.0 appraisal from students), *2016*.
 
-![Bash] ![Python] ![CUDA] ![Pytorch]
+![Bash] ![Python] ![Pytorch]
 {:.note title="Skills Entailed"}
 
 <br/>
@@ -90,7 +90,7 @@ Cerego, based on CA, US, takes machine learning combined with years of cognitive
 
 * Performed A/B testing to cross-verify the learning application’s validity with GLMM, substantiating that our algorithms make learners acquire faster with 88%+ ES than the control group.
 * Built, optimized, Chineselized NLP transformer-based keyword extraction for automated multichoice test generation. 
-* Developed a question-answering system with 78%+ accuracy.
+* Developed a question-answering system with 70%+ Top 5 F1.
 * Communicated and collaborated with US-side developers and data scientists.
 
 ![R] ![Pytorch] ![aws] ![Mysql] ![Git] ![Pandas] ![Sklearn]
