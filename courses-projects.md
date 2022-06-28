@@ -22,6 +22,12 @@ Selected courses. For complete infomation, please find my Offical Grade Report.
 
 |Course|Level-Credit[^11]|Source[^12]|GPA[^13]|Repo/Project|
 |:----------|:----------|:----------|:----------|:----------|
+|**3D Computer Vision with Deep Learning Applications** `CSIE5429`|M-3|NTU|A+|**\[[link]()\]**|
+|**Decentralized Applications Design and Practice** `NM5371`|M-3|NTU|A+|**\[[link]()\]**|
+|**Digital Image Processing** `CSIE5612`|M-3|NTU|A+|**\[[link]()\]**|
+|**Digital Visual Effects** `CSIE7694`|M-3|NTU|A+|**\[[link]()\]**|
+|**Applied Deep Learning** `CSIE5431`|M-3|NTU|A+|**\[[link]()\]**|
+|**Computer Vision: from recognition to geometry** `EEE5053`|M-3|NTU|A+|**\[[link]()\]**|
 |**Deep Learning in Computer Vision** `CommE5052`|M-3|NTU|A+|**\[[link]()\]**|
 |**Reinforcement Learning** `AEC8059`|M-3|NTU|A|**\[[link]()\]**|
 |**Convex Optimization** `CommE5052`|M-3|NTU|B+|-|
