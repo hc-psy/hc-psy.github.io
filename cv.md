@@ -10,12 +10,14 @@ sitemap: false
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23BCBCBC&title_bg=%23BCBCBC&icon=moleculer.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)
 
-With a solid grounding in Psychological Science, Computer Science, and Statistics, **Hao-Cheng Lo** (Ollie) is a machine learning (NLP) engineer at [JCIP group](http://www.jcipgroup.com/index_template.html?3) with 5+ years of hands-on experience in machine learning, data science, and software development (full-stack). Besides, he currently enacts a role as a Psychology Ph.D. student at [National Taiwan University](http://www.psy.ntu.edu.tw/) (NTU).
+With a solid grounding in Psychological Science, Computer Science, and Statistics, **Hao-Cheng Lo** (Ollie) is a machine learning (NLP) engineer with 5+ years of hands-on experience in machine learning, data science, and software development (full-stack). Besides, he currently enacts a role as a Psychology Ph.D. student at [National Taiwan University](http://www.psy.ntu.edu.tw/) (NTU).
 <br/><br/>
 Derived from multidisciplinary training, he strives to build AI-oriented applications that can exert business impacts through fast learning, strategic thinking, agile programming abilities, and a conscientious yet open-minded spirit.
 <br/><br/>
-Prior to his current status, he received B.S. and M.S. degrees in Psychology (Behavioral Science) from [National Chengchi University](https://psy.nccu.edu.tw/) (NCCU) and [National Taiwan University](http://www.psy.ntu.edu.tw/) (NTU) in 2016 and 2019, respectively.
+Prior to his current status, he received B.S. and M.S. degrees in Psychology (Behavioral Science) from [National Taiwan University](http://www.psy.ntu.edu.tw/) (NTU).
 {:.note title="Summary"}
+
+<!-- in 2016 and 2019, respectively. -->
 
 <br/>
 <i class="fas fa-desktop" style="width: 20px"></i>：[**haolab \[dot\] net**](https://haolab.net)  <br/>
@@ -203,18 +205,18 @@ Tier 1 University in Taiwan.
 * Published several academic papers (see [Publications](../publications){:.heading.flip-title}).
 
 <br/>
-<img src="/assets/img/nccu.jpg" style="float: left; width: 65px; padding: 5px 10px 5px 0px;">  **BS** in **Psychology** at [**National Chengchi University**](https://psy.nccu.edu.tw/) <br/> <span style="color: grey; font-size: 0.9em"> Taipei, Taiwan, *Sep 2012 – Jun 2016*</span> <br/>
-{:.lead}
+<!-- <img src="/assets/img/nccu.jpg" style="float: left; width: 65px; padding: 5px 10px 5px 0px;">  **BS** in **Psychology** at [**National Chengchi University**](https://psy.nccu.edu.tw/) <br/> <span style="color: grey; font-size: 0.9em"> Taipei, Taiwan, *Sep 2012 – Jun 2016*</span> <br/>
+{:.lead} -->
 
-Tier 1 University in Taiwan.
-{:.note title="Description"}
+<!-- Tier 1 University in Taiwan.
+{:.note title="Description"} -->
 
-* GPA: Overall = 3.3/4.0, Last 60 = 3.6/4.0.
+<!-- * GPA: Overall = 3.3/4.0, Last 60 = 3.6/4.0.
 * Presidential Award in Academic Excellence (1<sup>st</sup> Place) in *2013*.
 * Joined IO-LAB hosted by Yue-Loong Chang, Chein-Chih Kuo, and Tzu-Ting Lin.
     * Lab Thesis: Time-managed flow in workplace.
 * Joined Reading & Eyetracking LAB hosted by Tsai-Jie Li.  
-    * Undergraduate Thesis: Focal and parafocal attention on vertical reading: An evidence from eye-tracking (see [Publications](../publications){:.heading.flip-title}). Granted by [Ministry of Science and Technology (Taiwan)](https://www.most.gov.tw/?l=en).
+    * Undergraduate Thesis: Focal and parafocal attention on vertical reading: An evidence from eye-tracking (see [Publications](../publications){:.heading.flip-title}). Granted by [Ministry of Science and Technology (Taiwan)](https://www.most.gov.tw/?l=en). -->
 
 ## Honor & Award 🎖️
 <hr/>
@@ -226,7 +228,8 @@ In this competition, we developed an *Automated Ilgality Examination System of F
 
 * **Excellent PhD Students Scholarship**, *2019 - 2023*. Granted by [Ministry of Science and Technology (Taiwan)](https://www.most.gov.tw/?l=en). [**\[certi.\]**](https://drive.google.com/file/d/1xi70Z7GVU-i7QzUYjU4Bsz_OD002EMgH/view?usp=sharing)
 * **SU HSIANG-YU Award**, *2019*. Granted by [Taiwanese Psychological Association](https://www.tpa-tw.org/?lang=en). [**\[certi.\]**](https://drive.google.com/file/d/1xWY1my14KDLnQxYlHFDXzpe3XJdo4LuY/view?usp=sharing)
-* **Presidential Award in Academic Excellence (1<sup>st</sup> Place)**, *2013*. Granted by [National Chengchi University](https://psy.nccu.edu.tw/PageFront).
+* **Presidential Award in Academic Excellence (1<sup>st</sup> Place)**, *2013*. 
+<!-- Granted by [National Chengchi University](https://psy.nccu.edu.tw/PageFront). -->
 
 
 ## Activities 🎪

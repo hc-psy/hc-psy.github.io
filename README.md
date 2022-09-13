@@ -1,6 +1,4 @@
-# Hydejack Starter Kit
-
-A quicker, cleaner way to get started blogging with [Hydejack](https://hydejack.com/).
+# Hao-Cheng Lo's Personal Website
 
 ## Quick Start
 ### Running locally
